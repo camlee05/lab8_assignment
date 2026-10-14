@@ -25,7 +25,7 @@ Dự án được thực hiện nhằm tìm hiểu và thực hành kiểm thử
 Bài thực hành tập trung vào chức năng đăng nhập thông qua API.
 
 - **Phương thức:** POST
-- **Endpoint:** `https://reqres.in/api/login`
+- **Endpoint:** `https://adaagencygroup.online/`
 - **Loại kiểm thử:** API Testing
 - **Nội dung kiểm tra:** Gửi yêu cầu đăng nhập và kiểm tra phản hồi của API.
 
@@ -42,11 +42,11 @@ Bài thực hành tập trung vào chức năng đăng nhập thông qua API.
 
 ### 5.1. Cấu hình và thực hiện kiểm thử
 
-![Cấu hình kiểm thử JMeter](screenshots/1.png)
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/a54b90f2-2dfc-4034-8f6e-f094ebcaec40" />
 
 ### 5.2. Kết quả kiểm thử
 
-![Kết quả kiểm thử JMeter](screenshots/2.png)
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/91b5b591-23d8-4062-b61f-07f5f95bb36a" />
 
 ## 6. Kết quả và đánh giá
 
